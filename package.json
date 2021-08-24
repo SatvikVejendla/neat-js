@@ -1,7 +1,7 @@
 {
-  "name": "neat.node.js",
+  "name": "neat-node-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "A VERY simple implementation of the NEAT algorithm in javascript to simulate neuroevolution.\r NOTE: This project only works for very simple data and isn't suitable for complicated tasks.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,5 +10,24 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatvikVejendla/neat-js.git"
+  },
+  "keywords": [
+    "neat",
+    "js",
+    "node",
+    "ai",
+    "neuroevolution"
+  ],
+  "bugs": {
+    "url": "https://github.com/SatvikVejendla/neat-js/issues"
+  },
+  "homepage": "https://github.com/SatvikVejendla/neat-js#readme"
 }
