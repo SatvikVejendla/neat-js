@@ -1,4 +1,5 @@
 module.exports = {
+  "linear": require('./linear.js'),
     "relu": require('./relu.js'),
     "sigmoid": require("./sigmoid.js"),
     "tanh": require("./tanh.js"),
