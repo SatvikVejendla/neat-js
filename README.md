@@ -2,7 +2,6 @@
 
 A VERY simple implementation of the NEAT algorithm coded from scratch in javascript to simulate neuroevolution.
 
-NOTE: This project only works for very simple data and isn't suitable for complicated tasks.
 
 ## Installation
 
